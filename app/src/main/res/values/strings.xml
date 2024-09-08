@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Resident_Admin</string>
+    <string name="desarrollador">Desarrollado Por: Nelson Romero</string>
+
+    <!--Menu Admin-->
+    <string name="InicioAdmin">Inicio</string>
+    <string name="PerfilAdmin">Perfil</string>
+    <string name="RegistrarAdmin">Registrar Usuarios</string>
+    <string name="ListarAdmin">Lista de Usuarios</string>
+    <string name="Salir">Cerrar Sesión</string>
+</resources>
+
